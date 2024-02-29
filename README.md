@@ -67,6 +67,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jainanshii/jainanshii/output/snake.svg" alt="Snake animation" />
-
 ###
